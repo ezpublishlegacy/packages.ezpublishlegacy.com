@@ -4,7 +4,7 @@ eZ Publish Legacy - Packages Repository
 Package server mirror of packages.ez.no 
 
 
-Last updated: 2014-10-21 @ 10:45 AM CST
+Last updated: 2014-11-15 @ 11:55 AM CST
 =======================================
 
 About
@@ -17,5 +17,6 @@ References
 
 * Mirror of ez.no package server: http://packages.ez.no/ezpublish
 * Project: http://ezpublishlegacy.com
+* Package Server: http://packages.ezpublishlegacy.com/ezpublish
 * Community: http://share.ez.no
 * Upstream Vendor: http://ez.no
